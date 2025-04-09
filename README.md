@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm TuanHM!
 
-I'm a 4th-year student at **FPT University**, passionate about software development — especially in the backend and full-stack web development fields.
+I'm a 4th-year student at **FPT University**, passionate about software development — especially in the backend and I want to be full-stack web development fields in the future.
 
 ## 🧠 Skills & Technologies
 
@@ -13,7 +13,7 @@ I'm a 4th-year student at **FPT University**, passionate about software developm
 
 ### 🌐 Frontend Development
 - HTML / CSS / JavaScript
-- Bootstrap 4/5
+- Bootstrap 5
 - Angular (Basic level)
 
 ### 🛠️ Tools & Others
