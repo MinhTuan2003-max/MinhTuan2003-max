@@ -1,39 +1,55 @@
 # 👋 Hi there, I'm TuanHM!
 
-I'm a 4th-year student at **FPT University**, passionate about software development — especially in the backend and I want to be full-stack web development fields in the future.
+I'm a 4th-year student at **FPT University**, passionate about software development — especially backend development. I aspire to become a **full-stack web developer**, capable of building scalable and user-friendly applications.
+
+---
 
 ## 🧠 Skills & Technologies
 
 ### 💻 Backend Development
-- Java (Core & OOP)
+- Java (Core, OOP)
 - JSP / Servlet
 - JDBC
 - Hibernate ORM
-- SQL Server & MySQL
+- SQL Server / MySQL
 
 ### 🌐 Frontend Development
-- HTML / CSS / JavaScript
+- HTML5, CSS3, JavaScript
 - Bootstrap 5
-- Angular (Basic level)
-
-### 🛠️ Tools & Others
+- Angular
+  
+### 🛠️ Tools & Technologies
 - Git & GitHub
 - Eclipse / IntelliJ IDEA
 - Apache Tomcat
 - Postman
+- SQLite
 
-## 🌱 Currently Learning
-- REST APIs
-- Spring Boot
-- Advanced Angular
-- Deployment & CI/CD basics
+### 📐 Software Architecture & Practices
+- MVC, MVVM, Modular Design
+- Familiar with Layered Architecture (Controller - Service - Repository)
+- Basic understanding of RESTful APIs and OAuth
+- Experience working with SRS, SDS, and Scrum methodology
 
-## 🎯 Career Goal
-I aim to become a full-stack developer who builds scalable and user-friendly web applications. I enjoy learning new technologies and applying them to real-world projects.
-
-## 📫 Connect With Me
-- Email: minhtuanha2829@gmail.com
-- Phone Number: 0367133632
 ---
 
-Thanks for visiting my profile! 😊
+## 🌱 Currently Learning
+- Spring Boot
+- Advanced Angular
+- RESTful API design
+
+---
+
+## 🎯 Career Goal
+To become a competent **full-stack developer**, contributing to robust, scalable web applications while continuously improving through real-world practice, mentorship, and learning new technologies.
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: minhtuanha2829@gmail.com  
+- 📱 Phone: 0367 133 632  
+- 🐙 GitHub: [github.com/MinhTuan2003-max](https://github.com/MinhTuan2003-max)
+
+---
+
+> Thanks for visiting my profile!
