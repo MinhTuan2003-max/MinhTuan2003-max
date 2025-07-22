@@ -1,55 +1,47 @@
 # 👋 Hi there, I'm TuanHM!
 
-I'm a 4th-year student at **FPT University**, passionate about software development — especially backend development. I aspire to become a **full-stack web developer**, capable of building scalable and user-friendly applications.
+I'm a 4th-year **Software Engineering student at FPT University**, passionate about backend development using Java. I have solid experience in **Java Core, OOP**, and have worked with technologies like **Spring Boot, JSP/Servlet**, and databases such as **MySQL, SQL Server**, and **MongoDB**.
+
+I'm eager to learn and grow in a professional environment, with the goal of becoming a well-rounded **full-stack web developer**.
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Technical Skills
 
-### 💻 Backend Development
-- Java (Core, OOP)
-- JSP / Servlet
-- JDBC
-- Hibernate ORM
-- SQL Server / MySQL
+### 🧾 Programming Languages
+- Java (Core Java, Java 8+)
+- JavaScript / TypeScript
+- SQL: MySQL, SQLite, SQL Server
+- NoSQL: MongoDB
 
-### 🌐 Frontend Development
-- HTML5, CSS3, JavaScript
-- Bootstrap 5
+### 🛠 Frameworks & Tools
+- Spring Boot, Hibernate/JPA, Maven/Gradle
+- JSP / Servlet, Thymeleaf
 - Angular
-  
-### 🛠️ Tools & Technologies
-- Git & GitHub
-- Eclipse / IntelliJ IDEA
-- Apache Tomcat
-- Postman
-- SQLite
+- JUnit, Git/GitHub/GitLab
 
-### 📐 Software Architecture & Practices
-- MVC, MVVM, Modular Design
-- Familiar with Layered Architecture (Controller - Service - Repository)
-- Basic understanding of RESTful APIs and OAuth
-- Experience working with SRS, SDS, and Scrum methodology
+### 🎨 Other Technologies
+- RESTful API, HTML/CSS/SCSS
+- Bootstrap, Tailwind CSS
+- Postman, IntelliJ IDEA, Eclipse
+- Waterfall, Agile basics
 
 ---
 
-## 🌱 Currently Learning
-- Spring Boot
-- Advanced Angular
-- RESTful API design
+## 🎯 Career Goals
+
+- Specialize in **backend development** with Spring Framework and Microservices
+- Build **scalable and secure** web applications
+- Continuously improve through projects, courses, and tech communities
 
 ---
 
-## 🎯 Career Goal
-To become a competent **full-stack developer**, contributing to robust, scalable web applications while continuously improving through real-world practice, mentorship, and learning new technologies.
+## 📫 Contact Me
 
----
-
-## 📫 Connect With Me
 - 📧 Email: minhtuanha2829@gmail.com  
 - 📱 Phone: 0367 133 632  
 - 🐙 GitHub: [github.com/MinhTuan2003-max](https://github.com/MinhTuan2003-max)
 
 ---
 
-> Thanks for visiting my profile!
+> Thank you for visiting my profile!
