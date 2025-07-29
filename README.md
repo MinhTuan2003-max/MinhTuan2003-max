@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.jpg" 
+  <img src="https://i.pinimg.com/1200x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg" 
        alt="Banner"
        style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; object-position: center;" />
 </p>
@@ -22,12 +22,6 @@
 - 🚀 Continuously learning and building to become a well-rounded backend engineer with strong knowledge of modern web architecture
 
 ---
-
-## 🧩 Contribution Badges
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MinhTuan2003-max/TaskManagementSystem_TMS/main/assets/contribution-badges.png" alt="GitHub Contribution Badges" />
-</p>
 
 ## 🛠️ Tech Stack
 
