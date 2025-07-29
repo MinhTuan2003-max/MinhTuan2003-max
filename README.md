@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.jpg" alt="Banner" />
+  <img src="https://i.pinimg.com/1200x/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.jpg" 
+       alt="Banner"
+       style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; object-position: center;" />
 </p>
 
 <h1 align="center">Hi, I'm TuanHM 👋</h1>
@@ -24,7 +26,7 @@
 ## 🧩 Contribution Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MinhTuan2003-max/your-repo-name/main/assets/contribution-badges.png" alt="GitHub Contribution Badges" />
+  <img src="https://raw.githubusercontent.com/MinhTuan2003-max/TaskManagementSystem_TMS/main/assets/contribution-badges.png" alt="GitHub Contribution Badges" />
 </p>
 
 ## 🛠️ Tech Stack
