@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg" 
        alt="Banner"
-       style="width: 100%; max-width: 800px; height: 200px; object-fit: cover; object-position: center;" />
+  />
 </p>
 
 <h1 align="center">Hi, I'm TuanHM 👋</h1>
