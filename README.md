@@ -1,11 +1,9 @@
-<p align="center">
 <div style="width: 100%; height: 200px; overflow: hidden; position: relative;">
   <img src="https://i.pinimg.com/1200x/60/e0/f3/60e0f33bb4dbe6a52ca312fc247a0d21.jpg"
        alt="Banner"
        style="width: 100%; position: absolute; top: 50%; transform: translateY(-50%);"
   />
 </div>
-</p>
 
 <h1 align="center">Hi, I'm TuanHM 👋</h1>
 
