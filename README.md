@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-```typescript
+```javascript
 const tuanProfile = {
     education: "Software Engineering @ FPT University (GPA: 3.14)",
     training: "FPT Software Academy - Enterprise Java Development",
@@ -26,7 +26,7 @@ const tuanProfile = {
     currentFocus: ["Microservices Architecture", "Cloud Computing", "System Optimization"],
     achievements: ["3x Good Student Award", "Outstanding Graduation Thesis"],
     lookingFor: "Backend/Full-stack Java Developer opportunities",
-    funFact: "I optimize code like I optimize my coffee routine ☕"
+    funFact: "I optimize code like I optimize my coffee routine"
 };
 ```
 
@@ -36,7 +36,7 @@ const tuanProfile = {
 - ⚡ **Performance Focused**: Experienced in optimizing API response times and database queries
 - 🌐 **Full-Stack Versatility**: Comfortable across the entire development stack
 - 🤝 **Team Player**: Trained in Agile methodologies with experience in collaborative development
-- 🇰🇷 **Global Ready**: Korean language proficiency for international collaboration
+- 🌟 **Global Ready**: Korean language proficiency for international collaboration
 
 ---
 
@@ -80,23 +80,15 @@ const tuanProfile = {
 ### 🏢 FPT Software | Java Developer Trainee
 *Enterprise-Level Training Program*
 
-```java
-@Component
-public class MyJourney {
-    private List<String> skills = Arrays.asList(
-        "Enterprise Java Development with Spring Boot",
-        "Building RESTful APIs with best practices",
-        "Implementing Redis caching strategies",
-        "Elasticsearch integration for search optimization",
-        "Frontend development with React & Vue.js",
-        "Docker containerization & CI/CD pipelines"
-    );
-    
-    public String getImpact() {
-        return "Completed high-pressure mock projects simulating real-world scenarios";
-    }
-}
-```
+**Core Skills Acquired:**
+- Enterprise Java Development with Spring Boot
+- Building RESTful APIs with best practices
+- Implementing Redis caching strategies
+- Elasticsearch integration for search optimization
+- Frontend development with React & Vue.js
+- Docker containerization & CI/CD pipelines
+
+**Impact:** Completed high-pressure mock projects simulating real-world scenarios
 
 **Key Highlights:**
 - ✅ Trained by senior developers on enterprise software development lifecycle
@@ -132,7 +124,7 @@ public class MyJourney {
 
 **Impact:** Demonstrated commercial viability with potential for real-world deployment
 
-[📂 View Repository](https://github.com/MinhTuan2003-max/TransitLink)
+[📂 View Repository](https://gitlab.com/sep490_g80)
 
 ---
 
@@ -187,14 +179,19 @@ public class MyJourney {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhTuan2003-max&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhTuan2003-max&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6D00&currStreakLabel=2E9EF7" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhTuan2003-max&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhTuan2003-max&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6D00&currStreakLabel=2E9EF7" alt="GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTuan2003-max&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&hide=html,css" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhTuan2003-max&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTuan2003-max&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9EF7&hide=html,css" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhTuan2003-max&theme=react-dark&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" alt="Activity Graph" width="49%" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhTuan2003-max&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTuan2003-max&layout=compact&theme=github_dark" width="47%" />
+</p>
 
 ---
 
@@ -216,22 +213,20 @@ public class MyJourney {
 
 ## 🎯 Current Focus & Goals
 
-```yaml
-short_term:
-  - Master microservices architecture with Spring Cloud
-  - Achieve AWS Solutions Architect certification
-  - Contribute to open-source Java projects
-  
-long_term:
-  - Lead backend development teams
-  - Architect enterprise-level systems
-  - Leverage Korean language skills in international projects
-  
-continuous_learning:
-  - Advanced system design patterns
-  - Kafka & event-driven architecture
-  - Kubernetes & container orchestration
-```
+**Short-term Goals:**
+- Master microservices architecture with Spring Cloud
+- Achieve AWS Solutions Architect certification
+- Contribute to open-source Java projects
+
+**Long-term Vision:**
+- Lead backend development teams
+- Architect enterprise-level systems
+- Leverage Korean language skills in international projects
+
+**Continuous Learning:**
+- Advanced system design patterns
+- Kafka & event-driven architecture
+- Kubernetes & container orchestration
 
 ---
 
