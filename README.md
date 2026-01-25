@@ -1,4 +1,4 @@
-# Hi there, I'm Ha Minh Tuan 👋
+# Hi there, I'm Ha Minh Tuan
 
 <div align="center">
   
