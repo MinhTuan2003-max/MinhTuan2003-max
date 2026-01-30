@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 **Education:** Software Engineering – FPT University (GPA: 3.14)  
 **Professional Training:** FPT Software Academy – Enterprise Java Development  
@@ -38,17 +38,17 @@
 
 ---
 
-### 🚀 What I Bring to the Table
+### What I Bring to the Table
 
-- 💡 **Problem Solver**: Turning complex business requirements into clean, maintainable code
-- ⚡ **Performance Focused**: Experienced in optimizing API response times and database queries
-- 🌐 **Full-Stack Versatility**: Comfortable across the entire development stack
-- 🤝 **Team Player**: Trained in Agile methodologies with experience in collaborative development
-- 🌟 **Global Ready**: Korean language proficiency for international collaboration
+-  **Problem Solver**: Turning complex business requirements into clean, maintainable code
+-  **Performance Focused**: Experienced in optimizing API response times and database queries
+-  **Full-Stack Versatility**: Comfortable across the entire development stack
+-  **Team Player**: Trained in Agile methodologies with experience in collaborative development
+-  **Global Ready**: Korean language proficiency for international collaboration
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -83,9 +83,9 @@
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🏢 FPT Software | Java Developer Trainee
+### FPT Software | Java Developer Trainee
 *Enterprise-Level Training Program*
 
 **Core Skills Acquired:**
@@ -99,17 +99,17 @@
 **Impact:** Completed high-pressure mock projects simulating real-world scenarios
 
 **Key Highlights:**
-- ✅ Trained by senior developers on enterprise software development lifecycle
-- ✅ Hands-on experience with microservices architecture patterns
-- ✅ Implemented performance optimization techniques (caching, query optimization)
-- ✅ Collaborated in Agile teams using Git workflow and code reviews
+- Trained by senior developers on enterprise software development lifecycle
+- Hands-on experience with microservices architecture patterns
+- Implemented performance optimization techniques (caching, query optimization)
+- Collaborated in Agile teams using Git workflow and code reviews
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🚌 TransitLink - Smart Shuttle Coordination System
-**Graduation Thesis | ⭐ Highly Rated by University Board**
+### TransitLink - Smart Shuttle Coordination System
+**Graduation Thesis | Highly Rated by University Board**
 
 <div align="left">
   
@@ -124,19 +124,19 @@
 **Challenge:** Build a real-time shuttle coordination platform for transport companies
 
 **Solution:**
-- 🎯 Architected a scalable backend system handling concurrent shuttle tracking
-- ⚡ Implemented WebSocket for real-time updates with 200ms average latency
-- 🔍 Integrated Elasticsearch for instant search across 10,000+ route records
-- 💾 Utilized Redis for geolocation caching, improving response time by 60%
-- 🚀 Automated deployment pipeline with Docker & GitHub Actions
+- Architected a scalable backend system handling concurrent shuttle tracking
+- Implemented WebSocket for real-time updates with 200ms average latency
+- Integrated Elasticsearch for instant search across 10,000+ route records
+- Utilized Redis for geolocation caching, improving response time by 60%
+- Automated deployment pipeline with Docker & GitHub Actions
 
 **Impact:** Demonstrated commercial viability with potential for real-world deployment
 
-[📂 View Repository](https://gitlab.com/sep490_g80)
+[View Repository](https://gitlab.com/sep490_g80)
 
 ---
 
-### 📋 Task Management System (TMS)
+### Task Management System (TMS)
 **Personal Project | Modern Kanban Board**
 
 <div align="left">
@@ -149,21 +149,21 @@
 </div>
 
 **Key Features:**
-- 🔐 JWT-based authentication with role-based access control (RBAC)
-- 🔔 Real-time notifications using WebSocket (STOMP protocol)
-- 🎨 Responsive UI built with Angular 20 & Tailwind CSS 3.4
-- 📊 Drag-and-drop Kanban board with task analytics
+- JWT-based authentication with role-based access control (RBAC)
+- Real-time notifications using WebSocket (STOMP protocol)
+- Responsive UI built with Angular 20 & Tailwind CSS 3.4
+- Drag-and-drop Kanban board with task analytics
 
 **Technical Highlights:**
 - Implemented custom exception handling and API versioning
 - Designed RESTful API following OpenAPI 3.0 specification
 - Achieved 95%+ test coverage with JUnit & Mockito
 
-[📂 View Repository](https://github.com/MinhTuan2003-max/TaskManagementSystem_TMS)
+[View Repository](https://github.com/MinhTuan2003-max/TaskManagementSystem_TMS)
 
 ---
 
-### 📚 Personal Library Manager
+### Personal Library Manager
 **Full-Stack Application | OAuth2 Integration**
 
 <div align="left">
@@ -175,16 +175,16 @@
 </div>
 
 **Highlights:**
-- 🔑 Seamless Google Sign-In integration using OAuth2
-- 📖 Advanced book management with MongoDB aggregation pipelines
-- 🔍 Optimized search with pagination and filtering
-- 📱 Responsive design for cross-device compatibility
+- Seamless Google Sign-In integration using OAuth2
+- Advanced book management with MongoDB aggregation pipelines
+- Optimized search with pagination and filtering
+- Responsive design for cross-device compatibility
 
-[📂 View Repository](https://github.com/MinhTuan2003-max/Personal-Library-Manager)
+[View Repository](https://github.com/MinhTuan2003-max/Personal-Library-Manager)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhTuan2003-max&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub Stats" width="49%" />
@@ -203,23 +203,23 @@
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-**🎓 FPT University** | Bachelor of Software Engineering | *2021 - 2025*
+**FPT University** | Bachelor of Software Engineering | *2021 - 2025*
 - GPA: 3.14/4.0
 - 3x Good Student Award (2021, 2022, 2023)
 - Outstanding Graduation Thesis Award
 
-**📜 Professional Training**
+**Professional Training**
 - FPT Software Academy - Enterprise Java Development
 - Spring Framework Certification (In Progress)
 
-**🌏 Language Proficiency**
+**Language Proficiency**
 - TOPIK 3 (Test of Proficiency in Korean)
 
 ---
 
-## 🎯 Current Focus & Goals
+## Current Focus & Goals
 
 **Short-term Goals:**
 - Master microservices architecture with Spring Cloud
@@ -238,7 +238,7 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
@@ -252,9 +252,9 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=MinhTuan2003-max&color=2E9EF7&style=for-the-badge)
   
-  ### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out! 🚀**
+  **Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
   
 </div>
 
