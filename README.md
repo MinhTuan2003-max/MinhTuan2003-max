@@ -30,11 +30,11 @@
 - System Optimization
 
 **Achievements:**
-- 3× Good Student Award
+- 4× Good Student Award
 - Outstanding Graduation Thesis
 
 **Career Goal:** Backend / Full-Stack Java Developer  
-**Fun Fact:** I optimize code the same way I optimize my coffee routine ☕  
+**Fun Fact:** I optimize code the same way I optimize my coffee routine
 
 ---
 
